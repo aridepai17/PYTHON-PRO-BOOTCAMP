@@ -1,6 +1,7 @@
-# PYTHON: MASTERING THE ESSENTIALS
+# PYTHON PRO BOOTCAMP
 
-Welcome to the **Python Mastering the Essentials** repository! This repository is designed to help you learn and master the essential concepts of Python programming.
+Welcome to the **Python Pro Bootcamp** repository! This repository is designed to master Python by building 100 projects in 100 days.
+Learn data science, automation, build websites, games and apps!
 
 ## Table of Contents
 
@@ -14,7 +15,8 @@ Welcome to the **Python Mastering the Essentials** repository! This repository i
 
 ## Introduction
 
-This repository contains a series of tutorials and code examples that cover the fundamental concepts of Python. Whether you're a beginner looking to get started or an experienced developer wanting to brush up on your skills, you'll find valuable resources here.
+This repository contains a series of tutorials and code examples that cover the fundamental concepts of Python along with building important projects for
+the purpose of completing this bootcamp as a professional Python programmer.
 
 ## Prerequisites
 
@@ -30,13 +32,13 @@ To get started with this repository, follow these steps:
 1. Clone the repository to your local machine using Git:
 
    \`\`\`bash
-   git clone https://github.com/aridepai17/PYTHON-MASTERING-THE-ESSENTIALS.git
+   git clone https://github.com/aridepai17/PYTHON-PRO-BOOTCAMP.git
    \`\`\`
 
 2. Navigate to the cloned directory:
 
    \`\`\`bash
-   cd PYTHON-MASTERING-THE-ESSENTIALS
+   cd PYTHON-PRO-BOOTCAMP
    \`\`\`
 
 3. (Optional) Create and activate a virtual environment:
@@ -99,3 +101,4 @@ If you have any questions or suggestions, feel free to open an issue or contact 
 - **GitHub:** [aridepai17](https://github.com/aridepai17)
 
 Happy coding!
+Happy learning!
